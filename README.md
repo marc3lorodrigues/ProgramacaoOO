@@ -10,7 +10,7 @@ Hoje em dia a maioria das linguagens de desenvolvimento possuem características
 
 
 - [Definindo um atributo](definindoatributo.md)
-- [Definindo uma propriedade]()
+- [Definindo uma propriedade](definindopropriedade.md)
 - [Definindo método construtor]()
 - [Definindo métodos gerais]()
 - [Sobreposição de Métodos]()
